@@ -1,11 +1,44 @@
 
 package Libreria;
+
 import java.util.Scanner;
 
-
+/**
+ * La clase {@code MainPrestamos} contiene el método {@code main} que permite al usuario
+ * interactuar con las funcionalidades de la clase {@code PrestamosFinancieros} mediante
+ * la consola. Solicita datos de entrada como capital, tasa y tiempo para calcular:
+ * 
+ * <ul>
+ *   <li>Interés simple</li>
+ *   <li>Interés compuesto</li>
+ *   <li>Monto final con interés simple</li>
+ *   <li>Monto final con interés compuesto</li>
+ *   <li>Pago mensual de un préstamo</li>
+ * </ul>
+ * 
+ * <p>Esta clase muestra un menú básico en consola y presenta los resultados con formato
+ * claro para la interpretación del usuario.
+ * 
+ * @author HP
+ */
 public class MainPrestamos {
 
-  public static void main(String[] args) {
+    /**
+     * Método principal que ejecuta el programa de cálculos financieros.
+     * 
+     * <p>Solicita al usuario:
+     * <ul>
+     *   <li>Capital (cantidad de dinero)</li>
+     *   <li>Tasa de interés anual (en decimal, ejemplo: 0.12 para 12%)</li>
+     *   <li>Tiempo en años</li>
+     * </ul>
+     * 
+     * <p>Realiza los cálculos utilizando los métodos de la clase {@code PrestamosFinancieros}
+     * y muestra los resultados en consola.
+     * 
+     * @param args argumentos de línea de comandos (no se usan en este programa)
+     */
+    public static void main(String[] args) {
 
         // Crear objeto Scanner para leer datos del usuario
         Scanner sc = new Scanner(System.in);

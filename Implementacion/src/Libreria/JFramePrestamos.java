@@ -1,9 +1,29 @@
 
 package Libreria;
-
+/**
+ * La clase {@code JFramePrestamos} implementa la interfaz gráfica de usuario (GUI) 
+ * para interactuar con la clase {@code PrestamosFinancieros}. Permite al usuario
+ * calcular:
+ * 
+ * <ul>
+ *   <li>Interés simple</li>
+ *   <li>Interés compuesto</li>
+ *   <li>Monto final con interés simple</li>
+ *   <li>Monto final con interés compuesto</li>
+ *   <li>Pago mensual</li>
+ * </ul>
+ * 
+ * <p>Presenta campos de entrada para capital, tasa y tiempo, y un combo box
+ * para elegir el tipo de cálculo financiero a realizar. Muestra el resultado
+ * en pantalla de forma clara y ordenada.
+ * 
+ * @author HP
+ */
 
 public class JFramePrestamos extends javax.swing.JFrame {
-
+    /**
+     * Constructor que inicializa los componentes de la ventana.
+     */
     public JFramePrestamos() {
         initComponents();
     }
@@ -183,7 +203,9 @@ public class JFramePrestamos extends javax.swing.JFrame {
     }//GEN-LAST:event_btnCalcularActionPerformed
 
     /**
-     * @param args the command line arguments
+     * Método principal que inicia la aplicación de interfaz gráfica.
+     * 
+     * @param args argumentos de línea de comandos (no se usan en este programa)
      */
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
