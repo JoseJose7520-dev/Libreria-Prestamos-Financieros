@@ -54,7 +54,7 @@
 ## 📄 Documentación Javadoc
 
 Puedes ver la documentación completa aquí:  
-[Ver Javadoc](dist/javadoc/Libreria/PrestamosFinancieros.html)
+[Ver documentación Javadoc](javadoc/Libreria/PrestamosFinancieros.html)
 
 # 📷Capturas del Uso en una clase Main y JFrame Form
 <img width="500" height="323" alt="imagen" src="https://github.com/user-attachments/assets/ef3c3fd1-0d43-4270-834b-bc7e057f5f74" />
