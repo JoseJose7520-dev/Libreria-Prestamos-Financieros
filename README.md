@@ -54,12 +54,19 @@
 ## 📄 Documentación Javadoc
 
 Puedes ver la documentación completa aquí:  
-[Ver documentación Javadoc](docs/Libreria/PrestamosFinancieros.html)
+
 
 # 📷Capturas del Uso en una clase Main y JFrame Form
-<img width="500" height="323" alt="imagen" src="https://github.com/user-attachments/assets/ef3c3fd1-0d43-4270-834b-bc7e057f5f74" />
-<img width="603" height="563" alt="imagen" src="https://github.com/user-attachments/assets/e480f42b-1267-4ced-a1d9-a65f4c014d23" />
-<img width="602" height="555" alt="imagen" src="https://github.com/user-attachments/assets/aeed3acf-6e9c-448e-807a-5fe0cfaeca35" />
-<img width="603" height="562" alt="imagen" src="https://github.com/user-attachments/assets/d75da99a-d4cd-424d-a37c-f4473045d94b" />
 
+<!-- Primera fila -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef3c3fd1-0d43-4270-834b-bc7e057f5f74" width="400" style="margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/e480f42b-1267-4ced-a1d9-a65f4c014d23" width="400" />
+</p>
+
+<!-- Segunda fila -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aeed3acf-6e9c-448e-807a-5fe0cfaeca35" width="400" style="margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/d75da99a-d4cd-424d-a37c-f4473045d94b" width="400" />
+</p>
 
