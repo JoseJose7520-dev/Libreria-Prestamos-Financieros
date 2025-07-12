@@ -54,7 +54,7 @@
 ## 📄 Documentación Javadoc
 
 Puedes ver la documentación completa aquí:  
-
+[Ver documentación JavaDoc en GitHub Pages](https://josejose7520-dev.github.io/Libreria-Prestamos-Financieros/Libreria/package-summary.html)
 
 # 📷Capturas del Uso en una clase Main y JFrame Form
 
