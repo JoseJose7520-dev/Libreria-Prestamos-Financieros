@@ -1,4 +1,4 @@
-# 💰LibreriaPrestamos📚
+# 💰LibreriaPrestamosFinancieros📚
 
 **PrestamosFinancieros** es una librería desarrollada en Java para realizar cálculos financieros de manera sencilla y eficiente. Permite calcular **interés simple**, **interés compuesto**, **montos finales** y **pagos mensuales**, siendo ideal para:
 
@@ -74,3 +74,5 @@ Puedes ver la documentación completa aquí:
   <img src="https://github.com/user-attachments/assets/d75da99a-d4cd-424d-a37c-f4473045d94b" width="400" />
 </p>
 
+# Tutorial
+[Ver Tutorial](https://youtu.be/wB-P5tK-ev8)
