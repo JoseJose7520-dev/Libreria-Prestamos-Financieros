@@ -76,3 +76,9 @@ Puedes ver la documentación completa aquí:
 
 # Tutorial
 [Ver Tutorial](https://youtu.be/wB-P5tK-ev8)
+
+ ## Créditos:
+    
+   - Equipo 10-TAP verano:
+      - Jose Jose Osvaldo
+      - Olivera Jimenez Felix Eliel
