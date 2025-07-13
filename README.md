@@ -45,11 +45,15 @@
 
 # 📦Instrucciones para importar el .jar en otro proyecto
 
-1. Descarga el archivo **`LibreriaPrestamosFinancieros.jar`** desde este repositorio.
-2. Abre tu proyecto Java en NetBeans o VSCode.
-3. Haz clic derecho en **Libraries → Add JAR/Folder**.
-4. Selecciona el archivo `.jar` descargado y haz clic en **Add**.
-5. Importa la clase en tu código Java:
+1. Descargar📥 LibreriaPrestamosFinancieros.jar desde este repositorio🛠️.
+2. Agregar el .jar a tu proyecto Java
+   
+**En Netbeans**
+- Abre tu proyecto en NetBeans.
+- Haz clic derecho sobre Libraries (Bibliotecas).
+- Selecciona "Add JAR/Folder...".
+- Busca y selecciona el archivo LibreriaPrestamosFinancieros.jar.
+- Haz clic en "Add".
 
 ## 📄 Documentación Javadoc
 
